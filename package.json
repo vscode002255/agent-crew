@@ -1,0 +1,13 @@
+{
+  "name": "agent-crew",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Replaceable manager and worker agents with task DAGs and acceptance gates",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

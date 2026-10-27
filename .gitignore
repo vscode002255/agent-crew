@@ -1,0 +1,15 @@
+# Local agent-crew project state
+.agent-crew/
+
+# Generated release packages
+dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store

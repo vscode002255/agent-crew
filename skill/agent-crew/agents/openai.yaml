@@ -1,0 +1,8 @@
+interface:
+  display_name: "Agent Crew"
+  short_description: "Manager/worker tasks with acceptance gates"
+  brand_color: "#4F46E5"
+  default_prompt: "Use $agent-crew to plan this work as a task DAG, dispatch it to worker agents, verify each deliverable independently, and sign off only what passes."
+
+policy:
+  allow_implicit_invocation: true
